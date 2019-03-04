@@ -1,0 +1,23 @@
+2019-03-04 11:13:17,472 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@722c41f4: startup date [Mon Mar 04 11:13:17 IST 2019]; root of context hierarchy
+2019-03-04 11:13:17,534 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [beans.xml]
+2019-03-04 11:17:40,862 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@722c41f4: startup date [Mon Mar 04 11:17:40 IST 2019]; root of context hierarchy
+2019-03-04 11:17:40,924 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [beans.xml]
+2019-03-04 11:18:20,687 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@722c41f4: startup date [Mon Mar 04 11:18:20 IST 2019]; root of context hierarchy
+2019-03-04 11:18:20,734 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [beans.xml]
+2019-03-04 11:18:55,210 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@722c41f4: startup date [Mon Mar 04 11:18:55 IST 2019]; root of context hierarchy
+2019-03-04 11:18:55,257 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [beans.xml]
+2019-03-04 11:18:55,429 INFO [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from class path resource [DBFile.properties]
+2019-03-04 11:19:22,904 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@722c41f4: startup date [Mon Mar 04 11:19:22 IST 2019]; root of context hierarchy
+2019-03-04 11:19:22,967 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [beans.xml]
+2019-03-04 11:19:23,123 INFO [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from class path resource [DBFile.properties]
+2019-03-04 11:20:38,331 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@722c41f4: startup date [Mon Mar 04 11:20:38 IST 2019]; root of context hierarchy
+2019-03-04 11:20:38,394 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [beans.xml]
+2019-03-04 11:20:38,550 INFO [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from class path resource [DBFile.properties]
+2019-03-04 11:26:05,386 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@722c41f4: startup date [Mon Mar 04 11:26:05 IST 2019]; root of context hierarchy
+2019-03-04 11:26:05,433 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [beans.xml]
+2019-03-04 11:26:05,667 INFO [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from class path resource [DBFile.properties]
+2019-03-04 12:29:23,584 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@722c41f4: startup date [Mon Mar 04 12:29:23 IST 2019]; root of context hierarchy
+2019-03-04 12:29:23,631 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [beans.xml]
+2019-03-04 12:29:23,881 INFO [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer] - Loading properties file from class path resource [DBFile.properties]
+2019-03-04 12:52:09,013 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@722c41f4: startup date [Mon Mar 04 12:52:09 IST 2019]; root of context hierarchy
+2019-03-04 12:52:09,075 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [beans.xml]
